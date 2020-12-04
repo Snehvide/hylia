@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Ιστορία χωρίς τίτλο (επειδή λούζεις)
-metaTitle: test
+title: "'Εσο Δαίμων"
+metaTitle: Serafimagination
 metaDesc: Ποτέ μια νύχτα στον Ωμέγα Οχτώ δεν θα μπορούσε να χαρακτηριστεί ήσυχη.
 postsHeading: Latest posts
 archiveButtonText: See all posts
