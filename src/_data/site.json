@@ -8,6 +8,6 @@
   "authorName": "Nikos Serafeimidis",
   "enableThirdPartyComments": false,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png",
+  "faviconPath": "/images/icon.png",
   "maxPostsPerPage": 10
 }
