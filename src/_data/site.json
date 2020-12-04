@@ -2,12 +2,12 @@
   "showThemeCredit": false,
   "name": "Serafimagination",
   "shortDesc": "“The first draft is just you telling yourself the story.”  -Terry Pratchett",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "url": "https://www.serafimagination.com",
+  "authorEmail": "n.serafim.joker.ii@gmail.com",
+  "authorHandle": "",
+  "authorName": "Nikos Serafeimidis",
   "enableThirdPartyComments": false,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 6
+  "maxPostsPerPage": 10
 }
