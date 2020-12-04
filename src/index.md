@@ -1,10 +1,11 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Ιστορία χωρίς τίτλο (επειδή λούζεις)
+metaTitle: test
 metaDesc: Ποτέ μια νύχτα στον Ωμέγα Οχτώ δεν θα μπορούσε να χαρακτηριστεί ήσυχη.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ""
+socialImage: /images/serafimagination.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
